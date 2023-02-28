@@ -1,0 +1,23 @@
+<idea-plugin>
+  <id>color.scheme.MonokaiByNeo</id>
+  <name>Monokai by Neo</name>
+  <version>1.0</version>
+  <vendor email="neamaddin.a@mail.ru" url="https://github.com/neamaddin/monokai-by-neo">monokai-by-neo</vendor>
+
+  <description><![CDATA[
+      The Monokai theme as in Sublime text, which I tried to repeat as closely as possible (at least for Python). Not a perfect copy, but better than the rest of the themes for you if you decide to switch to Pycharm after Sublime like me.
+    ]]></description>
+
+  <change-notes><![CDATA[
+      First release. I would be glad for constructive criticism, if something is wrong in the theme, write, I will try to fix it.
+    ]]>
+  </change-notes>
+
+  <idea-version since-build="142.0"/>
+
+  <depends>com.intellij.modules.lang</depends>
+
+  <extensions defaultExtensionNs="com.intellij">
+    <bundledColorScheme path="/colors/Monokai by Neo"/>
+  </extensions>
+</idea-plugin>
