@@ -1,69 +1,62 @@
 <scheme name="Monokai by Neo" version="142" parent_scheme="Dark">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2023-02-28T20:57:09</property>
-    <property name="description">The Monokai theme as in Sublime text, which I tried to repeat as closely as possible (at least for Python). Not a perfect copy, but better than the rest of the themes for you if you decide to switch to Pycharm after Sublime like me.</property>
-    <property name="ide">Python</property>
-    <property name="ideVersion">2022.3.2.0.0</property>
-    <property name="modified">2023-02-28T20:58:27</property>
+    <property name="ide">RustRover</property>
+    <property name="ideVersion">2025.3.1.0.0</property>
     <property name="originalScheme">Monokai by Neo</property>
-    <property name="vendorMail">neamaddin.a@mail.ru</property>
-    <property name="vendorName">Neamaddin Akhmedov</property>
-    <property name="vendorUrl">https://github.com/neamaddin/monokai-by-neo</property>
-    <property name="version">1.0</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Hasklig" />
-    <option name="EDITOR_FONT_SIZE" value="13" />
+    <option name="EDITOR_FONT_SIZE" value="17" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-    <option name="EDITOR_FONT_SIZE" value="13" />
+    <option name="EDITOR_FONT_SIZE" value="17" />
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Consolas NF" />
   <option name="CONSOLE_FONT_SIZE" value="20" />
   <option name="CONSOLE_LIGATURES" value="true" />
   <colors>
-    <option name="ADDED_LINES_COLOR" value="1b5e20" />
-    <option name="ANNOTATIONS_COLOR" value="8b999f" />
-    <option name="CARET_COLOR" value="bdbdbd" />
+    <option name="ADDED_LINES_COLOR" value="1B5E20" />
+    <option name="ANNOTATIONS_COLOR" value="8B999F" />
+    <option name="CARET_COLOR" value="BDBDBD" />
     <option name="CARET_ROW_COLOR" value="323232" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="0" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="000000" />
     <option name="DELETED_LINES_COLOR" value="616161" />
-    <option name="FILESTATUS_ADDED" value="43a047" />
+    <option name="FILESTATUS_ADDED" value="43A047" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="616161" />
     <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="262626" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="ef5350" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="ef5350" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="ef5350" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="EF5350" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="EF5350" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="EF5350" />
     <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="757575" />
-    <option name="FILESTATUS_MERGED" value="ab47bc" />
-    <option name="FILESTATUS_MODIFIED" value="39be5" />
-    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="39be5" />
-    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="39be5" />
-    <option name="FILESTATUS_SWITCHED" value="9688" />
-    <option name="FILESTATUS_UNKNOWN" value="ef5350" />
-    <option name="FILESTATUS_addedOutside" value="43a047" />
-    <option name="FILESTATUS_changelistConflict" value="5d4037" />
-    <option name="FILESTATUS_modifiedOutside" value="39be5" />
+    <option name="FILESTATUS_MERGED" value="AB47BC" />
+    <option name="FILESTATUS_MODIFIED" value="039BE5" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="039BE5" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="039BE5" />
+    <option name="FILESTATUS_SWITCHED" value="009688" />
+    <option name="FILESTATUS_UNKNOWN" value="EF5350" />
+    <option name="FILESTATUS_addedOutside" value="43A047" />
+    <option name="FILESTATUS_changelistConflict" value="5D4037" />
+    <option name="FILESTATUS_modifiedOutside" value="039BE5" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="" />
     <option name="GUTTER_BACKGROUND" value="" />
     <option name="INDENT_GUIDE" value="424242" />
     <option name="LINE_NUMBERS_COLOR" value="757575" />
     <option name="METHOD_SEPARATORS_COLOR" value="424242" />
-    <option name="MODIFIED_LINES_COLOR" value="d47a1" />
+    <option name="MODIFIED_LINES_COLOR" value="0D47A1" />
     <option name="NOTIFICATION_BACKGROUND" value="827717" />
     <option name="RIGHT_MARGIN_COLOR" value="424242" />
     <option name="SELECTED_INDENT_GUIDE" value="424242" />
     <option name="SELECTED_TEARLINE_COLOR" value="757575" />
     <option name="SELECTION_BACKGROUND" value="616161" />
-    <option name="SEPARATOR_BELOW_COLOR" value="e0e0e0" />
-    <option name="SOFT_WRAP_SIGN_COLOR" value="bdbdbd" />
+    <option name="SEPARATOR_BELOW_COLOR" value="E0E0E0" />
+    <option name="SOFT_WRAP_SIGN_COLOR" value="BDBDBD" />
     <option name="TEARLINE_COLOR" value="616161" />
     <option name="VISUAL_INDENT_GUIDE" value="757575" />
-    <option name="WHITESPACES" value="ffffff" />
+    <option name="WHITESPACES" value="FFFFFF" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="424242" />
   </colors>
   <attributes>
@@ -72,7 +65,6 @@
         <option name="FOREGROUND" value="ff9800" />
       </value>
     </option>
-    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="" />
     <option name="BAD_CHARACTER">
       <value>
         <option name="EFFECT_COLOR" value="f44336" />
@@ -289,8 +281,6 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING" />
-    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="DART_ENUM_CONSTANT">
       <value>
         <option name="FOREGROUND" value="ba68c8" />
@@ -21309,7 +21299,6 @@
         <option name="FOREGROUND" value="219598" />
       </value>
     </option>
-    <option name="PY.BUILTIN_NAME" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
     <option name="PY.COMMA">
       <value>
         <option name="FOREGROUND" value="ffffff" />
@@ -21320,14 +21309,12 @@
         <option name="FOREGROUND" value="56d8ef" />
       </value>
     </option>
-    <option name="PY.KEYWORD_ARGUMENT" baseAttributes="DEFAULT_PARAMETER" />
     <option name="PY.PREDEFINED_DEFINITION">
       <value>
         <option name="FOREGROUND" value="56d8ef" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="PY.PREDEFINED_USAGE" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
     <option name="PY.SELF_PARAMETER">
       <value>
         <option name="FOREGROUND" value="ff9800" />
@@ -21442,7 +21429,6 @@
         <option name="FOREGROUND" value="cc7833" />
       </value>
     </option>
-    <option name="SQL_OUTER_QUERY_COLUMN" baseAttributes="SQL_COLUMN" />
     <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ba68c8" />
@@ -21555,5 +21541,27 @@
       </value>
     </option>
     <option name="YAML_ANCHOR" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="org.rust.ASSOC_FUNCTION" baseAttributes="DEFAULT_STATIC_METHOD" />
+    <option name="org.rust.ASSOC_FUNCTION_CALL" baseAttributes="DEFAULT_STATIC_METHOD" />
+    <option name="org.rust.ASSOC_TRAIT_FUNCTION" baseAttributes="org.rust.ASSOC_FUNCTION" />
+    <option name="org.rust.ASSOC_TRAIT_FUNCTION_CALL" baseAttributes="org.rust.ASSOC_FUNCTION_CALL" />
+    <option name="org.rust.CRATE" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="org.rust.ENUM" baseAttributes="DEFAULT_CLASS_NAME" />
+    <option name="org.rust.ENUM_VARIANT" baseAttributes="DEFAULT_STATIC_FIELD" />
+    <option name="org.rust.FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
+    <option name="org.rust.FUNCTION_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
+    <option name="org.rust.INLINE_ERROR_DESCRIPTION" baseAttributes="DEFAULT_LINE_COMMENT" />
+    <option name="org.rust.INLINE_EXPLANATION" baseAttributes="DEFAULT_LINE_COMMENT" />
+    <option name="org.rust.INLINE_WARNING_DESCRIPTION" baseAttributes="DEFAULT_LINE_COMMENT" />
+    <option name="org.rust.METHOD" baseAttributes="DEFAULT_INSTANCE_METHOD" />
+    <option name="org.rust.METHOD_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
+    <option name="org.rust.MUT_BINDING" baseAttributes="DEFAULT_REASSIGNED_LOCAL_VARIABLE" />
+    <option name="org.rust.MUT_SELF_PARAMETER" baseAttributes="org.rust.MUT_PARAMETER" />
+    <option name="org.rust.Q_OPERATOR" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="org.rust.STRUCT" baseAttributes="DEFAULT_CLASS_NAME" />
+    <option name="org.rust.TRAIT_METHOD" baseAttributes="org.rust.METHOD" />
+    <option name="org.rust.TRAIT_METHOD_CALL" baseAttributes="org.rust.METHOD_CALL" />
+    <option name="org.rust.TYPE_ALIAS" baseAttributes="DEFAULT_CLASS_NAME" />
+    <option name="org.rust.UNION" baseAttributes="DEFAULT_CLASS_NAME" />
   </attributes>
 </scheme>

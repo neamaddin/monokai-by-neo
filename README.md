@@ -31,15 +31,15 @@ Requires IDE restart.
 
 Doesn't require IDE restart.
 
-1. Download either [Monokai Materialized.jar](Monokai_by_Neo.jar) or [colors/Monokai Materialized.xml](colors/Monokai%20By%20Neo.xml) (you may need to change extension form `xml` to `.icls`)
+1. Download either [Monokai_by_Neo.jar](Monokai_by_Neo.jar)
 2. Go to "Preferences" -> "Editor" -> "Color scheme"
-3. Click "cog icon" and select "Import Scheme" and then "Color scheme (.icls) or settings (.jar)"
-4. Select downloaded file
+3. Click "cog icon" and select "Import Scheme" and then "Settings (.jar)"
+4. Select the downloaded file
 
 ## Font
 
-Recommended font for this color scheme is [Hasklig](https://github.com/wclr/my-nerd-fonts/tree/master/Consolas%20NF).
-[Consolas NF](https://github.com/wclr/my-nerd-fonts/tree/master/Consolas%20NF) is set as the font for the console, it is needed for the correct display of unicode characters, because i use [Oh My Posh](https://ohmyposh.dev/)
+The recommended font for this color scheme is [Hasklig](https://github.com/wclr/my-nerd-fonts/tree/master/Consolas%20NF).
+[Consolas NF](https://github.com/wclr/my-nerd-fonts/tree/master/Consolas%20NF) is set as the font for the console, it is necessary for the correct display of Unicode characters, because I use [Oh My Posh](https://ohmyposh.dev/)
 
 ![Oh My Posh example](examples/oh-my-posh.png)
 

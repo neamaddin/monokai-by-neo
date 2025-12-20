@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>color.scheme.MonokaiByNeo</id>
   <name>Monokai by Neo</name>
-  <version>1.0</version>
+  <version>1.1</version>
   <vendor email="neamaddin.a@mail.ru" url="https://github.com/neamaddin/monokai-by-neo">monokai-by-neo</vendor>
 
   <description><![CDATA[
@@ -9,7 +9,7 @@
     ]]></description>
 
   <change-notes><![CDATA[
-      First release. I would be glad for constructive criticism, if something is wrong in the theme, write, I will try to fix it.
+      Added color scheme for Rust
     ]]>
   </change-notes>
 
