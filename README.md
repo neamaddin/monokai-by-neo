@@ -20,21 +20,38 @@ The Monokai theme as in [Sublime Text](https://www.sublimetext.com/), which I tr
 
 ### As plugin
 
-Requires IDE restart.
+1. Download `Monokai_by_Neo.jar` from the [latest release](https://github.com/neamaddin/monokai-by-neo/releases/latest).
+2. Open Settings/Preferences -> Plugins -> gear icon -> Install Plugin from Disk.
+3. Select the downloaded JAR and restart the IDE if requested.
+4. Select **Monokai by Neo** in Editor -> Color Scheme.
 
-1. Go to "Preferences" -> "Plugins"
-2. Select "Marketplace"
-3. Search for "Monokai by Neo"
-4. Click "Install"
+You can also search for **Monokai by Neo** in Marketplace. Marketplace updates are published separately from GitHub releases.
 
 ### As color scheme
 
-Doesn't require IDE restart.
+1. Download `Monokai_by_Neo.icls` from the [latest release](https://github.com/neamaddin/monokai-by-neo/releases/latest).
+2. Open Settings/Preferences -> Editor -> Color Scheme -> gear icon -> Import Scheme.
+3. Select the downloaded `.icls` file.
 
-1. Download either [Monokai_by_Neo.jar](Monokai_by_Neo.jar)
-2. Go to "Preferences" -> "Editor" -> "Color scheme"
-3. Click "cog icon" and select "Import Scheme" and then "Settings (.jar)"
-4. Select the downloaded file
+## Building
+
+Requires Python 3, with no external dependencies:
+
+```sh
+python3 scripts/build.py
+```
+
+The script validates the plugin descriptor and color scheme, then rebuilds
+`Monokai_by_Neo.jar` from the tracked XML files. The archive uses fixed timestamps
+for reproducible builds. For a release, update the version and change notes in
+`META-INF/plugin.xml`, rebuild, and attach the JAR and the scheme (with an `.icls`
+extension) to the GitHub release. Upload the JAR to JetBrains Marketplace separately.
+
+## Changes in 1.2
+
+- Fixed `InvalidDataException: Dark` on IDE startup and plugin reload by inheriting
+  from the bundled `Darcula` scheme.
+- Added a reproducible build with XML and archive validation.
 
 ## Font
 

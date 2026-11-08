@@ -1,4 +1,4 @@
-<scheme name="Monokai by Neo" version="142" parent_scheme="Dark">
+<scheme name="Monokai by Neo" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="ide">RustRover</property>
